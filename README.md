@@ -1,0 +1,1 @@
+This is a game that puts you in the position of a god with limited resources.
